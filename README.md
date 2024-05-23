@@ -124,7 +124,7 @@ Response:
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Video Walkthrough
-* [Video showcasing GET routes]((https://drive.google.com/file/d/1wdEYmwJTIgiFCsurIbGqxI5ftUBIhTHu/view?usp=sharing))
+* [Video showcasing GET routes](https://drive.google.com/file/d/1wdEYmwJTIgiFCsurIbGqxI5ftUBIhTHu/view?usp=sharing)
 * [Video showcasing POST, PUT, DELETE routes](https://drive.google.com/file/d/1q93fp4sunNEsh_KwZ3UZZcPvMPA7ow3O/view?usp=sharing)
 
 ## License
