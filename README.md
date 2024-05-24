@@ -1,7 +1,7 @@
 # Challenge 13: E-commerce Backend API
 ## Description
 
-This project is a RESTful API for managing products in a database. It allows users to perform CRUD operations (Create, Read, Update, Delete) on products. The API is built using [insert framework or technology here] and communicates with a [insert type of database here] database.
+This project is a RESTful API for managing products in a database. It allows users to perform CRUD operations (Create, Read, Update, Delete) on products.
 ## Table of Contents
 - [Challenge 13: E-commerce Backend API](#challenge-13-e-commerce-backend-api)
   - [Description](#description)
